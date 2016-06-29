@@ -41,5 +41,8 @@
         ports:
           - "80:80"
      ```
-
+###References
+   * http://chrisstump.online/2016/02/20/docker-existing-rails-application/
+   * https://www.digitalocean.com/community/tutorials/how-to-install-and-use-docker-compose-on-ubuntu-14-04
+   * https://docs.docker.com/compose/rails/
 
